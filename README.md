@@ -19,7 +19,7 @@
     <li><strong>Script_5G_Poisson.m</strong>: The main script for analyzing 5G network throuhput using Poisson distribution methods.</li>
     <li><strong>Script_corelation.m</strong>: A script for analyzing the correlation between different segments of network trace.</li>
     <li><strong>Script_5G_sint_Poisson.m</strong>: A script for simulating and analyzing synthetic data using Poisson processes.</li>
-    <li><strong>trace_sint5G_radni.m</strong>: A script for generating sintetic throupghput network traces.</li>
+    <li><strong>trace_sint5G_radni.m</strong>: A script for generating sintetic throughput network traces.</li>
     <li><strong>fitmethis.m</strong>: A utility script for fitting statistical models to the data.</li>
     <li><strong>plotfitdist.m</strong>: A script for visualizing the fitted distribution.</li>
   </ul>
